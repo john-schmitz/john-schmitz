@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developing backend solutions
+- 🌱 I’m currently learning clean architecture
 <!--
 **john-schmitz/john-schmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
